@@ -11,4 +11,4 @@ byte me!
 
 the long poll!
 
-SNS trigger
+SNS trigger take 2
